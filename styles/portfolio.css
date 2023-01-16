@@ -112,3 +112,109 @@ padding: 130px 150px;
     font-size: 20px;
     color: #474747;
 }
+
+.what-i-do{
+    margin-top: 130px;
+}
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-descript{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+
+}
+
+.skill{
+    background: #FFFFFF;
+box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+border-radius: 5px;
+padding: 30px;
+margin-top: 100px;
+}
+
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+
+.resume .title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-top: 30px;
+}
+
+.resume .sub-title{
+    font-weight: 600;
+    font-size: 20px;
+     color: #757575;
+     margin-bottom: 20px;
+}
+
+.resume .descript{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+
+}
+
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.resume .section-title{
+    font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.resume-button{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.contact .section-title{
+    text-align: left;
+
+}
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+    
+}
+
+.contact input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+
+input{
+    height: 20px;
+}
+.contact .descript{
+    font-weight: 400;
+font-size: 16px;
+color: #474747;
+margin-bottom: 20px;
+}
+
